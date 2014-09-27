@@ -4,4 +4,8 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+    <servlet>
+        <servlet-name>HelloWorld</servlet-name>
+        <servlet-class>com.github.dwiyatci.serpong.HelloWorld</servlet-class>
+    </servlet>
 </web-app>
